@@ -1,5 +1,5 @@
 import { Component } from "react";
-import {  Title ,Contacts, Container} from "./Container/Container.styled";
+import {  Title ,Contacts, Container} from "./UI/Container.styled";
 import {PhoneBookForm}  from "./PhoneBookForm/PhoneBookForm";
 import { nanoid } from 'nanoid'
 import { ContactList } from "./PhoneBookList/PhoneBookList";
