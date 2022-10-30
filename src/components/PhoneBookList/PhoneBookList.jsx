@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
-import { ListItem,List,Button,Contact } from './PhoneBookList.styled';
 
+import { ListItem, List, Button, Contact } from './PhoneBookList.styled';
 
 export const ContactList = ({ filteredContacts, ContactDel }) => {
   return (

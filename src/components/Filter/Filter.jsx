@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 import { Input, Label, Span } from './Filter.styled';
 
 export const Filter = ({ filter, handleFilter }) => {
